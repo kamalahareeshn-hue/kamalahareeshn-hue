@@ -1,6 +1,8 @@
 N.S. KAMALAHAREESH
 AI/ML Student | Computer Vision | Python | Machine Learning
-[PHONE] | [EMAIL] | [CITY, STATE] | [LINKEDIN] | [GITHUB] | [PORTFOLIO]
+[9342922966] | [kamalahareeshn@gmail.com] | [Komarapalayam,Tamil Nadu] | [www.linkedin.com/in/kamalahareesh7
+
+] | [GITHUB] | [PORTFOLIO]
 
 PROFESSIONAL SUMMARY
 3rd-year B.E. Computer Science and Engineering (Artificial Intelligence & Machine Learning) student with hands-on experience in Python, Machine Learning, and Computer Vision. Built Crowd Crush Risk Detection, a real-time CCTV/video analysis system for predictive crowd-safety monitoring, and represented Team Nova Gen AI at Smart India Hackathon (SIH) 2026 on the same problem statement. Seeking AI/ML, Computer Vision, or Software Development opportunities to apply practical, project-based skills.
